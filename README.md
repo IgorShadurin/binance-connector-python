@@ -412,3 +412,7 @@ Futures and Vanilla Options APIs are not supported:
 Contributions are welcome.<br/>
 If you've found a bug within this project, please open an issue to discuss what you would like to change.<br/>
 If it's an issue with the API, please open a topic at [Binance Developer Community](https://dev.binance.vision)
+
+---
+
+Try [YumCut](https://yumcut.com)! This is an AI video generator that turns a single prompt into a ready-to-post vertical short video in minutes. It creates the script, images, voice-over, subtitles, and edits everything into a final clip automatically. It’s built for fast testing and making lots of variations without spending hours in an editor.
